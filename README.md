@@ -1,4 +1,4 @@
 # App-Dev
  
- I am Meyan Cusi
- I am 20 years old
+ BSIT3.1B
+ I graduated senior high in STI College Batangas
